@@ -188,13 +188,13 @@ Building, experimenting and expanding my portfolio one project at a time.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RUSHIKESH-2005-PY&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170"/>
+<img src="./profile/stats.svg" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=RUSHIKESH-2005-PY&hide_border=true&theme=transparent" height="170"/>
+<img src="./profile/streak.svg" height="170"/>
 
 </div>
 
@@ -202,11 +202,9 @@ Building, experimenting and expanding my portfolio one project at a time.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUSHIKESH-2005-PY&layout=compact&hide_border=true&theme=transparent" height="160"/>
+<img src="./profile/top-langs.svg" height="160"/>
 
 </div>
-
----
 
 ## 🐍 Contribution Journey
 
