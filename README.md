@@ -84,18 +84,23 @@ Hi! I'm **Rushikesh**, an aspiring **Data & AI Professional** passionate about e
 
 ### 🛒 E-Commerce Analytics
 
-📊 **Sales & Customer Analytics**
+#### 📊 Sales & Customer Analytics
 
-End-to-end analytics project exploring sales performance, customer behavior and business insights.
+End-to-end analytics project focused on **sales performance, customer behavior, product trends and business insights** using real-world data.
 
 **Tech Stack**
 
-`Python` `SQL` `Pandas` `Visualization`
+`Python` `SQL` `Pandas` `Power BI` `Tableau` `Excel`
 
-🔗 [View Project](https://github.com/RUSHIKESH-2005-PY/E-Commerce-Sales-Customer-Analytics)
+**Highlights**
+- 📈 Sales & revenue analysis
+- 👥 Customer behavior analysis
+- 🛍️ Product & category performance
+- 💡 Business insights & recommendations
+
+🔗 **[View Project](YOUR-GITHUB-PROJECT-LINK)**
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🧠 Data Science
