@@ -220,7 +220,6 @@ Building, experimenting and expanding my portfolio one project at a time.
 
 </div>
 
----
 
 ## 💻 What I'm Building
 
@@ -235,6 +234,91 @@ Building, experimenting and expanding my portfolio one project at a time.
 </div>
 
 ---
+---
+
+## 📊 Skill Radar
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🐍 Programming
+
+**Python**  
+████████████████░░░░ 80%
+
+**SQL**  
+███████████████░░░░░ 75%
+
+**HTML / CSS**  
+██████████████░░░░░░ 70%
+
+**JavaScript**  
+████████████░░░░░░░░ 60%
+
+</td>
+
+<td align="center" width="50%">
+
+### 📈 Analytics
+
+**Excel**  
+████████████████░░░░ 80%
+
+**Power BI**  
+███████████████░░░░░ 75%
+
+**Tableau**  
+██████████████░░░░░░ 70%
+
+**Data Visualization**  
+███████████████░░░░░ 75%
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🧠 Data Science
+
+**Pandas**  
+███████████████░░░░░ 75%
+
+**NumPy**  
+██████████████░░░░░░ 70%
+
+**Matplotlib**  
+██████████████░░░░░░ 70%
+
+**Seaborn**  
+██████████████░░░░░░ 70%
+
+</td>
+
+<td align="center">
+
+### ☁️ Tools & Cloud
+
+**Git / GitHub**  
+███████████████░░░░░ 75%
+
+**AWS**  
+███████████░░░░░░░░░ 55%
+
+**VS Code**  
+████████████████░░░░ 80%
+
+**Data + AI Projects**  
+████████████░░░░░░░░ 60%
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🎯 2026 Goals
 
