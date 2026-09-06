@@ -98,7 +98,7 @@ End-to-end analytics project focused on **sales performance, customer behavior, 
 - 🛍️ Product & category performance
 - 💡 Business insights & recommendations
 
-🔗 **[View Project](YOUR-GITHUB-PROJECT-LINK)**
+https://github.com/RUSHIKESH-2005-PY/E-Commerce-Sales-Customer-Analytics
 
 </td>
 <td width="50%" valign="top">
