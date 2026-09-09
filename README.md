@@ -177,21 +177,20 @@ Building, experimenting and expanding my portfolio one project at a time.
 
 <div align="center">
 
-**📊 Data Analytics**  
-↓  
-**🧠 Data Science**  
-↓  
-**☁️ Cloud Computing**  
-↓  
-**🤖 Generative AI**  
-↓  
-**📖 Narrative AI**  
-↓  
-**🚀 Building Real-World Solutions**
+📊 <b>Data Analytics</b>
+<br>↓<br>
+🧠 <b>Data Science & Machine Learning</b>
+<br>↓<br>
+☁️ <b>Cloud Computing</b>
+<br>↓<br>
+🤖 <b>Generative AI</b>
+<br>↓<br>
+📖 <b>Narrative AI</b>
+<br>↓<br>
+🚀 <b>Building Real-World Solutions</b>
 
 </div>
 
----
 
 ## 📊 GitHub Stats
 
