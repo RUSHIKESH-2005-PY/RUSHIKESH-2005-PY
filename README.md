@@ -162,14 +162,14 @@ Building, experimenting and expanding my portfolio one project at a time.
 
 ## 📚 Currently Learning
 
-| Area | Focus |
-|---|---|
-| 📊 Data Analytics | Excel • SQL • Power BI • Tableau |
-| 🐍 Python | NumPy • Pandas • Matplotlib • Seaborn |
-| 🧠 Data Science | Statistics • Machine Learning |
-| ☁️ Cloud | AWS • Cloud Fundamentals |
-| 🤖 Generative AI | AI Applications • LLMs |
-| 📖 Narrative AI | Data Storytelling • AI-powered Narratives |
+| Area | Current Focus |
+|------|--------------|
+| 📊 **Data Analytics** | SQL • Power BI • Tableau • Advanced Excel |
+| 🐍 **Python & Data Science** | Pandas • NumPy • Matplotlib • Seaborn • Statistics |
+| 🧠 **Machine Learning** | ML Fundamentals • Model Building • Evaluation |
+| ☁️ **Cloud** | AWS • Cloud Fundamentals • Cloud-Based Solutions |
+| 🤖 **Generative AI** | AI Applications • LLM Fundamentals • GenAI Projects |
+| 📖 **Narrative AI** | Data Storytelling • AI-Powered Narratives • User Experiences |
 
 ---
 
